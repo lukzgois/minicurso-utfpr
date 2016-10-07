@@ -13,7 +13,7 @@
 #HSLIDE
 ## O que é o PHP?
 
-- PHP é um acrônimo recursivo para PHP: Hypertext Prepocessor
+- PHP é um acrônimo recursivo para PHP: Hypertext Preprocessor
 - Linguagem server-side para desenvolvimento web
 - Começou a ser desenvolvido em 1995 por Rasmus Lerdorf
 - Atualmente a última versão lançada é a 7.0.11
